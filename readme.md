@@ -1,6 +1,6 @@
 # Элиас для консоли
 
-* [элиас для bash](./description/bash/readme.md) (их еще нет)
+* [элиас для bash](./description/bash/readme.md)
 
 * [элиас для homebrew](./description/homebrew/readme.md)
 
