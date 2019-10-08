@@ -1,4 +1,4 @@
-# Элиас bash [(back)](./readme.md)
+# Элиас bash [(back)](../../readme.md)
 
 ## Файлы
 

@@ -1,4 +1,4 @@
-# Элиас npm (node) [(back)](./readme.md)
+# Элиас npm (node) [(back)](../../readme.md)
 
 - **ni** => `npm install`
 - **nis** => `npm install --save`
