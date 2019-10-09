@@ -4,8 +4,6 @@
 
 * [Visual Studio Code](./hotkey/vscode/readme.md)
 
----
-
 ## Элиас для консоли
 
 * [элиас для bash](./aliases/bash/readme.md)
