@@ -1,9 +1,17 @@
-# Элиас для консоли
+# Справочное руководство
 
-* [элиас для bash](./description/bash/readme.md)
+## Горячие клавиши
 
-* [элиас для homebrew](./description/homebrew/readme.md)
+* [Visual Studio Code](./hotkey/vscode/readme.md)
 
-* [элиас для git](./description/git/readme.md)
+---
 
-* [элиас для npm (node)](./description/npm(node)/readme.md)
+## Элиас для консоли
+
+* [элиас для bash](./aliases/bash/readme.md)
+
+* [элиас для homebrew](./aliases/homebrew/readme.md)
+
+* [элиас для git](./aliases/git/readme.md)
+
+* [элиас для npm (node)](./aliases/npm(node)/readme.md)
