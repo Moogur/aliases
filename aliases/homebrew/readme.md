@@ -1,23 +1,49 @@
 # Элиас homebrew [(back)](../../readme.md)
 
-- **bup** => `brew update && brew upgrade`
-- **bout** => `brew outdated`
-- **bin** => `brew install`
-- **brm** => `brew uninstall`
-- **bcl** => `brew cleanup`
+- **b** => `brew`
+
+- **bi** => `brew install`
+
+- **bu** => `brew uninstall`
+
 - **bls** => `brew list`
-- **bsr** => `brew search`
+
+- **bs** => `brew search`
+
+- **buu** => `brew update && brew upgrade`
+
 - **binf** => `brew info`
+
+- **bsl** => `brew services list`
+
+- **bout** => `brew outdated`
+
+- **bcl** => `brew cleanup`
+
 - **bdr** => `brew doctor`
+
 - **bed** => `brew edit`
 
 ## Элиас homebrew-cask
 
-- **bcin** => `brew cask install`
-- **bcrm** => `brew cask uninstall`
-- **bczp** => `brew cask zap`
-- **bccl** => `brew cask cleanup`
+- **bc** => `brew cask`
+
+- **bci** => `brew cask install`
+
+- **bcu** => `brew cask uninstall`
+
 - **bcls** => `brew cask list`
+
+- **bcal** => `brew cask audit | less`
+
+- **bczp** => `brew cask zap`
+
+- **bccl** => `brew cask cleanup`
+
 - **bcinf** => `brew cask info`
+
 - **bcdr** => `brew cask doctor`
+
 - **bced** => `brew cask edit`
+
+
