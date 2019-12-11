@@ -34,3 +34,7 @@ feat(Component): add hat wobble
 * [элиас для git](./aliases/git/readme.md)
 
 * [элиас для npm (node)](./aliases/npm(node)/readme.md)
+
+## Статьи
+
+* [Описание настроек tsconfig.json](./articles/)
