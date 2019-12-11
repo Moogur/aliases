@@ -39,4 +39,6 @@ feat(Component): add hat wobble
 
 * [Описание настроек tsconfig.json](./articles/tsconfig-settings/readme.md)
 
+* [Frontend WhiteList](./articles/frontend-whitelist/readme.md)
+
 ### [Карта развития (frontend)](./articles/frontend-roadmap/readme.md)
