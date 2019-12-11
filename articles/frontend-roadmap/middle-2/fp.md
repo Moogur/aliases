@@ -1,4 +1,4 @@
-# Функциональное программирование
+# Функциональное программирование [(back)](./readme.md)
 
 * Изучить книгу [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) от Franklin Frisby (8-12 главы включительно).
   * [Перевод](https://github.com/MostlyAdequate/mostly-adequate-guide-ru)

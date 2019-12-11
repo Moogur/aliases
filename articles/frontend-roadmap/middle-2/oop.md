@@ -1,4 +1,4 @@
-# Объектно-ориентированное программирование
+# Объектно-ориентированное программирование [(back)](./readme.md)
 
  > TODO extend OOP section with detailed questions about the topic
 * Что такое identity? В чём отличие от экземпляра?

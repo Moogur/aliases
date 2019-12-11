@@ -1,4 +1,4 @@
-# DOM
+# DOM [(back)](./readme.md)
 
 * Что такое DOM, BOM и `window`?
 * Как происходит построение DOM дерева?

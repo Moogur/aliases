@@ -1,4 +1,4 @@
-# Безопасность
+# Безопасность [(back)](./readme.md)
 
 * Что такое и зачем нужен SOP (Same-origin policy)? Как можно обойти ограничения SOP?
 * Что такое и зачем нужен CORS (Cross-origin resource sharing)?

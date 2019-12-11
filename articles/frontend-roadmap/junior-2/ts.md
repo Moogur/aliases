@@ -1,4 +1,4 @@
-# TypeScript
+# TypeScript [(back)](./readme.md)
 
 * Как и для каких целей используются типы данных, приведенные ниже?
   * Boolean

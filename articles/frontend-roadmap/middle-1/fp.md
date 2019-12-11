@@ -1,4 +1,4 @@
-# Функциональное программирование
+# Функциональное программирование [(back)](./readme.md)
 
 * Изучить книгу [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) от Franklin Frisby (1-7 главы включительно).
 * Изучить книгу [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) от Kyle Simpson (1-9 главы включительно).

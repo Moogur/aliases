@@ -1,4 +1,4 @@
-# Typescript
+# Typescript [(back)](./readme.md)
 
 * Что такое Type soundness и Type safety? Есть ли между этими понятиями разница?
 * Что такое structural typing, какие есть альтернативы, какие преимущества и недостатки у этого подхода?
