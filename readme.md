@@ -37,4 +37,4 @@ feat(Component): add hat wobble
 
 ## Статьи
 
-* [Описание настроек tsconfig.json](./articles/)
+* [Описание настроек tsconfig.json](./articles/tsconfig-settings/readme.md)
