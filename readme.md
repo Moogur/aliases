@@ -35,10 +35,13 @@ feat(Component): add hat wobble
 
 * [элиас для npm (node)](./aliases/npm(node)/readme.md)
 
+* [элиас для nvm](./aliases/nvm/readme.md)
+
 ## Статьи
 
 * [Описание настроек tsconfig.json](./articles/tsconfig-settings/readme.md)
 
 * [Frontend WhiteList](./articles/frontend-whitelist/readme.md)
 
-### [Карта развития (frontend)](./articles/frontend-roadmap/readme.md)
+## Roadmaps
+* [Карта развития для frontend (FSD)](./articles/frontend-roadmap/readme.md)
