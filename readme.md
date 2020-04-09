@@ -43,4 +43,5 @@ feat(Component): add hat wobble
 
 * [Frontend WhiteList](./articles/frontend-whitelist/readme.md)
 
-### [Карта развития (frontend)](./articles/frontend-roadmap/readme.md)
+## Roadmaps
+* [Карта развития для frontend (FSD)](./articles/frontend-roadmap/readme.md)
