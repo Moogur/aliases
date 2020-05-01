@@ -25,6 +25,10 @@ feat(Component): add hat wobble
 
 * [Visual Studio Code](./hotkey/vscode/readme.md)
 
+## Markdown
+
+* [cheat sheet](./markdown/cheat-sheet/readme.md)
+
 ## Элиас для консоли
 
 * [элиас для bash](./aliases/bash/readme.md)
